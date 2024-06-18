@@ -1,0 +1,1 @@
+Estoy agregando texto al archivo prueba.txt desde git kraken, desde la rama1 que cree en gitkraken!!
